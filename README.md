@@ -1,4 +1,4 @@
-<h1 align="center">Inbank-Loan-Calculator-prestashop-module</h1>
+<h1 align="center">InBank-Loan-Calculator-prestashop-module</h1>
 
 This module is a plugin for displaying **InBank Loan Calculator** and is deployed onto each item when enabled.
 
@@ -36,7 +36,7 @@ http://127.0.0.1/prestashop-mijora/admin075sorasy/
 6. If you are deploying PrestaShop online, please follow the installation instructions in the link below:
 http://doc.prestashop.com/display/PS17/Installing+PrestaShop
 
-### **InBank Loan Calculator** view in *'Module Manager'*
+### **InBank Loan Calculator** module view in *'Module Manager'*
 <hr>
 <img src="./screenshots/1.png">
 <hr>
