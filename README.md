@@ -14,7 +14,7 @@ and with PHP versions:
 ### Prerequisites
 |  Follow links below to download: |
 | ------------- |
-| PrestaShop 1.7.7 (https://www.prestashop.com/en/download)      | 
+| PrestaShop 1.7.4.4 (https://www.prestashop.com/en/download)      | 
 
 ### Installation
 
