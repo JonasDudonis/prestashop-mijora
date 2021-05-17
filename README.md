@@ -32,14 +32,14 @@ PASSWORD: Password
 ```sh
 http://127.0.0.1/prestashop-mijora/admin075sorasy/
 ```
----
+
 6. If you are deploying PrestaShop online, please follow the installation instructions in the link below:
 http://doc.prestashop.com/display/PS17/Installing+PrestaShop
 <hr>
 
 ### **🎬 Inbank Loan Calculator - YouTube demo**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fxJzQrdkhz0" target="_blank"><img src="https://i9.ytimg.com/vi/fxJzQrdkhz0/mq2.jpg?sqp=CMDLioUG&rs=AOn4CLB2fwpm6zj6IETs9GzKVNRwFPNV6A" 
-alt="prestashop-mijora" width="240" height="180" border="10" /></a>
+alt="prestashop-mijora" width="240" height="180"></a>
 <hr>
 
 ### **InBank Loan Calculator** enabled in *item* page
