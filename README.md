@@ -35,18 +35,22 @@ http://127.0.0.1/prestashop-mijora/admin075sorasy/
 ---
 6. If you are deploying PrestaShop online, please follow the installation instructions in the link below:
 http://doc.prestashop.com/display/PS17/Installing+PrestaShop
-
-### **InBank Loan Calculator** module view in *'Module Manager'*
-<hr>
-<img src="./screenshots/1.png">
 <hr>
 
 ### **InBank Loan Calculator** enabled in *item* page
 <img src="./screenshots/2.png">
 <hr>
 
-### Store front with Mijora slider 🚀
+### **InBank Loan Calculator** module view in *'Module Manager'*
+<img src="./screenshots/1.png">
+<hr>
+
+### **InBank Loan Calculator** Admin configuration panel
 <img src="./screenshots/3.png">
+<hr>
+
+### Store front with Mijora slider 🚀
+<img src="./screenshots/4.png">
 <hr>
 
 ## Authors

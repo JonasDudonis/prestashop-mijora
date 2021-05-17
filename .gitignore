@@ -99,20 +99,8 @@
 
 themes/*/cache/*
 
-# Config
-
-config/settings.inc.php
-config/settings.old.php
-config/xml/*
-config/themes/*
-!config/xml/themes/default.xml
-themes/*/config/settings_*.json
-app/config/parameters.old.yml
-app/config/config.php
-
 # Themes, modules and overrides
 
-modules/*
 override/*
 themes/*/
 !themes/classic
